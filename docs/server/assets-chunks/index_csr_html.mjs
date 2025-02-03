@@ -3,7 +3,7 @@ export default `<!doctype html>
 <head>
   <meta charset="utf-8">
   <title>Valentines</title>
-  <base href="/valentines-k">
+  <base href="/valentines-k/">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
 <style>body{background-color:#de9ecf;margin:0;padding:0}</style><link rel="stylesheet" href="styles-LKRX6P6X.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles-LKRX6P6X.css"></noscript></head>
