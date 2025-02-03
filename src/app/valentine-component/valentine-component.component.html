@@ -1,0 +1,20 @@
+
+    <div class="valentine-header">
+        <h1>
+            {{message1}}
+        </h1>
+        <h2>
+            {{message2}}
+        </h2>
+        <img src={{gifSource}} class="valentine-gif">
+    </div>
+    <div class="valentine-container">
+        <div class="buttons" *ngIf="!isYesClicked" >
+            <button class="yes"
+                (click)="sayYes()">YES
+            </button>
+            
+        </div>
+       
+    </div>
+
